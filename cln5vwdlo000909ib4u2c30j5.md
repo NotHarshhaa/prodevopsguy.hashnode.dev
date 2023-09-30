@@ -3,7 +3,7 @@ title: "How I Deployed my Website as a Docker Container"
 datePublished: Sat Sep 30 2023 10:22:29 GMT+0000 (Coordinated Universal Time)
 cuid: cln5vwdlo000909ib4u2c30j5
 slug: how-i-deployed-my-website-as-a-docker-container
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696068575973/1445d304-35d9-45ce-bac8-9036693ebedd.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696069493792/b92efca1-1a39-4d2f-a13f-87a567743f09.png
 tags: docker, devops, containers, docker-images
 
 ---
