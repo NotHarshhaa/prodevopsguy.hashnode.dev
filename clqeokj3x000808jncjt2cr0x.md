@@ -10,7 +10,7 @@ tags: software-development, opensource, devops, devsecops, ci-cd
 
 Hey there! Get ready for an exciting journey as we embark on deploying a React JS Zomato clone. Our trusty companion on this adventure is Jenkins, serving as our CI/CD tool, while the magic happens inside a Docker container. Dive into the details in this comprehensive blog — your go-to guide for the entire process.
 
-*🚀 Explore the GitHub Repository* [*https://github.com/mudit097/Zomato-Clone.git*](https://github.com/mudit097/Zomato-Clone.git) *for all the code and resources. Happy coding, friends!*
+*🚀* ***Explore the GitHub Repository*** [***https://github.com/NotHarshhaa/Zomato-Clone.git***](https://github.com/NotHarshhaa/Zomato-Clone.git) ***for all the code and resources. Happy coding, friends!***
 
 ![](https://miro.medium.com/v2/resize:fit:736/0*1eRpoAmlI9myi-Fi align="left")
 
