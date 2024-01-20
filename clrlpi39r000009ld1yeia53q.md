@@ -18,6 +18,8 @@ Also, we are adopting a modular approach with enhanced security measures. The in
 
 ## **Directory Overview**
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705733395583/e6cbad1b-3cc8-4f6f-8031-2350f84b7892.png align="center")
+
 ## **Directory Overview**
 
 * **DevOps Project-11:**
@@ -293,4 +295,4 @@ Happy coding!
 
 ### Happy Learning!
 
-***Harshhaa Vardhan Reddy*** *-* **DevOps Engineer / Blogger**
+***Harshhaa Vardhan Reddy*** *\-* **DevOps Engineer / Blogger**
