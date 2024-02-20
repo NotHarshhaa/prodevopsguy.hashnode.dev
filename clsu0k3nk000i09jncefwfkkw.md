@@ -3,6 +3,7 @@ title: "How to deploy DaemonSets Service in Kubernetes (K8s)?"
 datePublished: Tue Feb 20 2024 06:57:54 GMT+0000 (Coordinated Universal Time)
 cuid: clsu0k3nk000i09jncefwfkkw
 slug: how-to-deploy-daemonsets-service-in-kubernetes-k8s
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708412612551/8990dc0a-bfe8-474d-bc6c-33a0e5176730.jpeg
 tags: deployment, kubernetes, devops, k8s, devops-articles
 
 ---
