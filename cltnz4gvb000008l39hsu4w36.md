@@ -3,7 +3,7 @@ title: "100 Kubernetes Diagnostics Commands with Kubectl"
 datePublished: Tue Mar 12 2024 06:10:50 GMT+0000 (Coordinated Universal Time)
 cuid: cltnz4gvb000008l39hsu4w36
 slug: 100-kubernetes-diagnostics-commands-with-kubectl
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710223700557/e19fdd76-ef79-45b4-972c-a351c53336fb.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710223985445/3b78cbc8-5370-4f60-9546-d9684388735b.png
 tags: kubernetes, devops, containers, kubectl, devops-articles
 
 ---
