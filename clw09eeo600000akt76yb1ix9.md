@@ -3,6 +3,8 @@ title: "AWS Certified Solutions Architect - Associate"
 datePublished: Fri May 10 2024 05:51:09 GMT+0000 (Coordinated Universal Time)
 cuid: clw09eeo600000akt76yb1ix9
 slug: aws-certified-solutions-architect-associate
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715320498960/566fe943-f51e-484e-888d-9383c56eb6e4.png
+tags: aws, devops, aws-certified-solutions-architect-associate, devops-articles
 
 ---
 
