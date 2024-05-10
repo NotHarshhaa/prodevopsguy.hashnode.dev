@@ -3,6 +3,8 @@ title: "Azure DevOps Series - Azure Pipeline"
 datePublished: Fri May 10 2024 05:50:37 GMT+0000 (Coordinated Universal Time)
 cuid: clw09dpt1000209mq1dkj9tvg
 slug: azure-devops-series-azure-pipeline
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715321205628/54223700-ae06-4d0f-a5f0-12717daf7ea0.png
+tags: azure, devops, azure-devops, azure-certified, devops-articles
 
 ---
 
