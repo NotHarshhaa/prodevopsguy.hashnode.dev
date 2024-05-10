@@ -3,6 +3,8 @@ title: "Azure DevOps Series - Azure Test Plans"
 datePublished: Fri May 10 2024 05:50:44 GMT+0000 (Coordinated Universal Time)
 cuid: clw09dvnd000409mqfcmp08st
 slug: azure-devops-series-azure-test-plans
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715321343052/42928bfb-c803-4312-9c49-0ec65c1a3068.png
+tags: azure, devops, azure-devops, azure-certified, devops-articles
 
 ---
 
