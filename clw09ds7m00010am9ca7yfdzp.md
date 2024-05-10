@@ -3,6 +3,8 @@ title: "Azure DevOps Series - Azure Repos"
 datePublished: Fri May 10 2024 05:50:40 GMT+0000 (Coordinated Universal Time)
 cuid: clw09ds7m00010am9ca7yfdzp
 slug: azure-devops-series-azure-repos
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715321256577/acb96492-3448-41e8-90a5-78c75a47661e.png
+tags: azure, devops, azure-devops, azure-certified, devops-articles
 
 ---
 
