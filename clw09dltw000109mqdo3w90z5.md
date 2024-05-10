@@ -3,6 +3,8 @@ title: "Azure DevOps - Basics"
 datePublished: Fri May 10 2024 05:50:32 GMT+0000 (Coordinated Universal Time)
 cuid: clw09dltw000109mqdo3w90z5
 slug: azure-devops-basics
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714447062362/23680941-a079-4e8c-bd70-19bc4e5062af.png
+tags: azure, devops, azure-devops, devops-articles, azuredevops-zero-to-hero
 
 ---
 
