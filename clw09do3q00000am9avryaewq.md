@@ -3,6 +3,8 @@ title: "Azure DevOps Series - Azure Boards"
 datePublished: Fri May 10 2024 05:50:35 GMT+0000 (Coordinated Universal Time)
 cuid: clw09do3q00000am9avryaewq
 slug: azure-devops-series-azure-boards
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715321136616/350cc7c9-6021-48e4-bed6-4e486d249cc3.png
+tags: azure, devops, azure-devops, azure-certified, devops-articles
 
 ---
 
