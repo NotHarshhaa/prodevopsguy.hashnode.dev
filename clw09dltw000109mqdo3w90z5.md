@@ -3,11 +3,10 @@ title: "Azure DevOps - Basics"
 datePublished: Fri May 10 2024 05:50:32 GMT+0000 (Coordinated Universal Time)
 cuid: clw09dltw000109mqdo3w90z5
 slug: azure-devops-basics
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714447062362/23680941-a079-4e8c-bd70-19bc4e5062af.png
-tags: azure, devops, azure-devops, devops-articles, azuredevops-zero-to-hero
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715321008285/ba4b2c6d-6471-4465-999f-6c1abfc2690c.png
+tags: azure, devops, azure-devops, azure-certified, devops-articles
 
 ---
-
 
 DevOps is a suite of services you can implement end-to-end DevOps in your organization.
 
@@ -23,7 +22,7 @@ CM → Continuous monitoring is a systematic and ongoing process that uses autom
 
 Azure DevOps is a suite of services you can implement end-to-end DevOps in your organization. It includes services such as Azure Repos, Boards, Wiki, Build and Release pipelines, Test plans, Artifacts, etc.,
 
-Azure Devops Link — [https://dev.azure.com](https://dev.azure.com/Ibrahimsi909/)
+Azure DevOps Link — [https://dev.azure.com](https://dev.azure.com/Ibrahimsi909/)
 
 ![](https://miro.medium.com/v2/resize:fit:802/1*MHqRFqguzQ5fvNoqdOEpbg.png align="left")
 
