@@ -3,9 +3,10 @@ title: "Docker for the Absolute Beginner"
 datePublished: Fri May 10 2024 05:51:06 GMT+0000 (Coordinated Universal Time)
 cuid: clw09ec2w000609mq9cksbx8k
 slug: docker-for-the-absolute-beginner
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715791920819/e8003f59-f9e0-4887-a394-c6a01cae572e.png
+tags: docker, beginner, devops, containers, devops-articles
 
 ---
-
 
 **Docker** is a tool that allows developers to package their applications and all their dependencies into a single container. This container can then be easily transported and run on any machine that has Docker installed, without worrying about differences in the environment. It's like a standardized way of packaging and running software.
 
@@ -163,9 +164,9 @@ environment variables are like handy notes that programs use to find important i
     ```
     
 
-* Running the script normally: `python` [`app.py`](https://res.cloudinary.com/practicaldev/image/fetch/s--VBR-50Zw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/imsgbstga86vnxjwgebr.png)
+* Running the script normally: `python`[`app.py`](https://res.cloudinary.com/practicaldev/image/fetch/s--VBR-50Zw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/imsgbstga86vnxjwgebr.png)
     
-* Running with a specific color: `export APP_COLOR=blue; python` [`app.py`](https://res.cloudinary.com/practicaldev/image/fetch/s--VBR-50Zw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/imsgbstga86vnxjwgebr.png)
+* Running with a specific color: `export APP_COLOR=blue; python`[`app.py`](https://res.cloudinary.com/practicaldev/image/fetch/s--VBR-50Zw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/imsgbstga86vnxjwgebr.png)
     
 
 1. **Using ENV Variables in Docker:**
@@ -613,8 +614,9 @@ bash
 ```bash
    ```bash
    docker run private-registry.io/apps/internal-app
-   ```
 ```
+
+````yaml
 
 1. **Deploying Your Own Private Registry:**
     
@@ -630,7 +632,7 @@ docker run -d -p 5000:5000 --name registry registry:2
 {% endraw %}
      - Tag your image for the private registry:
 {% raw %}
-```
+````
 
 bash  
 docker image tag my-image [localhost:5000/my-image](https://res.cloudinary.com/practicaldev/image/fetch/s--VBR-50Zw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/imsgbstga86vnxjwgebr.png)
@@ -649,7 +651,7 @@ docker push [localhost:5000/my-image
 
 ```bash
   bash
-       docker pull localhost:5000/my-image 
+       docker pull localhost:5000/my-image
 ```
 
 1. **Pulling from a Remote Private Registry:**
@@ -890,12 +892,13 @@ Windows containers are a way to package and run software, just like Linux contai
 ```bash
    ```bash
    docker pull mcr.microsoft.com/windows/nanoserver:ltsc2019
-   ```
 ```
+
+````yaml
 
 ```bash
    - This command pulls the Nano Server base image.
-```
+````
 
 1. **Supported Environments:**
     
