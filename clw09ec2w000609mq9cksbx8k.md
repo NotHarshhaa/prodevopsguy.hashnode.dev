@@ -1,9 +1,9 @@
 ---
-title: "Docker for the Absolute Beginner"
+title: "Docker for the Absolute Beginners"
 datePublished: Fri May 10 2024 05:51:06 GMT+0000 (Coordinated Universal Time)
 cuid: clw09ec2w000609mq9cksbx8k
 slug: docker-for-the-absolute-beginner
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715791920819/e8003f59-f9e0-4887-a394-c6a01cae572e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715792570753/4b71604e-ab6b-4502-b84d-a6d8f90ddfd4.png
 tags: docker, beginner, devops, containers, devops-articles
 
 ---
