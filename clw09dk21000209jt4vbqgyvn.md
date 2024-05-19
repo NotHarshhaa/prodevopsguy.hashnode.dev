@@ -3,6 +3,8 @@ title: "Streamlining CI/CD Workflow with GitHub, Jenkins, SonarQube, Docker, Arg
 datePublished: Fri May 10 2024 05:50:29 GMT+0000 (Coordinated Universal Time)
 cuid: clw09dk21000209jt4vbqgyvn
 slug: streamlining-cicd-workflow-with-github-jenkins-sonarqube-docker-argocd-and-gitops
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716094377577/7da2fa48-5c41-4f67-9ee2-427436ab64c7.png
+tags: docker, github, sonarqube, kubernetes, devops, jenkins, ci-cd, devops-articles
 
 ---
 
