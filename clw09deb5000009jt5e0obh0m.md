@@ -3,6 +3,8 @@ title: "Deploying an app to AKS using Azure DevOps & Azure Cloud Shell"
 datePublished: Fri May 10 2024 05:50:22 GMT+0000 (Coordinated Universal Time)
 cuid: clw09deb5000009jt5e0obh0m
 slug: deploying-an-app-to-aks-using-azure-devops-azure-cloud-shell
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716432557389/2d1ed80a-7a44-42a3-8577-9def43947ea6.jpeg
+tags: cloud, azure, deployment, devops, azure-devops, aks, devops-articles
 
 ---
 
