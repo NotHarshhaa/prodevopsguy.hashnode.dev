@@ -3,6 +3,8 @@ title: "Advanced Terraform: Getting Started With Terragrunt"
 datePublished: Fri May 10 2024 05:49:51 GMT+0000 (Coordinated Universal Time)
 cuid: clw09cque00080amj92op3en8
 slug: advanced-terraform-getting-started-with-terragrunt
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716817755156/70d3052c-bd73-4585-8def-e08d04f584ed.png
+tags: devops, terraform, devops-articles, terraform-cloud, terragrunt
 
 ---
 
