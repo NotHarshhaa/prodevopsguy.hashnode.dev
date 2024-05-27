@@ -3,6 +3,8 @@ title: "AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production"
 datePublished: Fri May 10 2024 05:49:28 GMT+0000 (Coordinated Universal Time)
 cuid: clw09c8ky000w0amg384w1r6x
 slug: aws-devops-real-time-deployment-dev-pre-prod-production
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716784312553/8538933b-dc45-459c-99ab-feb0883d7207.png
+tags: aws, realtime, development, deployment, devops, production, devops-articles, aws-devops
 
 ---
 
