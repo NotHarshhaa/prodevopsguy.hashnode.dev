@@ -3,6 +3,8 @@ title: "Transform Kubernetes Manifests into Helm Chart"
 datePublished: Fri May 10 2024 05:49:54 GMT+0000 (Coordinated Universal Time)
 cuid: clw09csnt000m09l5huwzgjww
 slug: transform-kubernetes-manifests-into-helm-chart
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716870096900/f81edeb4-c79d-439f-a3a2-954deacd1299.png
+tags: development, kubernetes, devops, helm, devops-articles, kubernetes-manifest
 
 ---
 
