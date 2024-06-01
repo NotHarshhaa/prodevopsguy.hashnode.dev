@@ -3,6 +3,8 @@ title: "Newbie's View of Google Cloud Services"
 datePublished: Fri May 10 2024 05:50:24 GMT+0000 (Coordinated Universal Time)
 cuid: clw09dg1t000109jtds26ch8k
 slug: newbies-view-of-google-cloud-services
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717233778604/efc69ac0-6106-479d-8ba0-9a9533f10a35.avif
+tags: newbie, cloud, cloud-computing, google, devops, gcp, devops-articles
 
 ---
 
