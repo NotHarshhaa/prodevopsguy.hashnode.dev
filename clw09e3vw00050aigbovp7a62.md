@@ -3,6 +3,8 @@ title: "Zomato Clone: Secure Deployment with DevSecOps CI/CD"
 datePublished: Fri May 10 2024 05:50:55 GMT+0000 (Coordinated Universal Time)
 cuid: clw09e3vw00050aigbovp7a62
 slug: zomato-clone-secure-deployment-with-devsecops-cicd
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717559080418/ec980736-6e2b-4063-86ea-46947dc1e17c.png
+tags: docker, github, deployment, nodejs, sonarqube, kubernetes, devops, jenkins, devsecops, ci-cd, devops-articles, zomato-clone
 
 ---
 
