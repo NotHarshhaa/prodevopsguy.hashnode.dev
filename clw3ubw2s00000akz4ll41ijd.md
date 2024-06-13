@@ -12,6 +12,18 @@ tags: cloud, aws, devops, gcp, devops-articles
 
 ## Master Your DevOps Skills & AWS, GCP with Real challenge 🔥 + Learn DevOps & Cloud in a few days
 
+## DevOps Bootcamp Description:
+
+This program will prepare you with no experience in DevOps to take over DevOps tasks in your company. You will learn the most in-demand skills, such as container orchestration with Kubernetes, how to build a complete production ready CI/CD pipeline, automation with Terraform, Ansible, Python and many other essential tools, like Docker, AWS cloud, Git, Linux etc., which they can directly apply to the projects.
+
+More importantly, you don’t only learn the tools and their features, you learn the underlying concepts, which makes you able to transfer that knowledge to any alternative tool. You also learn the best practices behind those tools and concepts and why those best practices are important in different use cases.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718281002568/7b059fe0-0c2b-4c9c-b6f4-7a0c57472ff3.png align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718281024206/17068a08-9960-4ac5-8629-a50098ed8fd3.png align="center")
+
+## Complete DevOps Bootcamp Syllabus: [HERE](https://blog.prodevopsguy.xyz/the-ultimate-devops-bootcamp-syllabus)
+
 ### What you’ll learn in Bootcamp:
 
 * **Build Necessary Skills to Start DevOps Journey**
@@ -43,7 +55,7 @@ tags: cloud, aws, devops, gcp, devops-articles
 
 ![](https://imgur.com/WBks93k.png align="left")
 
-### 💥 Full Package at Rs.250/- INR only - English Content
+### 💥 Full Package at <mark>Rs. 280/- INR only</mark> - English Content
 
 * **36.5hrs Videos of DevOps Projects + GCP Full Edition + Ultimate DevOps Bootcamp**
     
