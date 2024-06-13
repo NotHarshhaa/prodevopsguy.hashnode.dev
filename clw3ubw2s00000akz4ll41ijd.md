@@ -160,7 +160,7 @@ Interested individuals who want to learn and upgrade skills, just ping @admin to
 
 ### After Purchasing:
 
-* After Payment from Above Link u get confirmation messege
+* After Payment from Above Link u get confirmation message.
     
 * Then u get redirected to Content URLs Page (Check below Image-1 for clarity)
     
@@ -168,7 +168,7 @@ Interested individuals who want to learn and upgrade skills, just ping @admin to
     
 * Image-1
     
-    ![Image-1](https://imgur.com/dpU7POR.png align="left")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718279129897/5620a29c-1088-4f2f-9021-38452383d76b.png align="center")
     
 * Image-2
     
