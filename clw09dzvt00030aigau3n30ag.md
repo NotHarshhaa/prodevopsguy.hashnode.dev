@@ -3,6 +3,8 @@ title: "Deploying an Application on Kubernetes: A Complete Guide!"
 datePublished: Fri May 10 2024 05:50:50 GMT+0000 (Coordinated Universal Time)
 cuid: clw09dzvt00030aigau3n30ag
 slug: deploying-an-application-on-kubernetes-a-complete-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1718949347433/0b359989-9ddc-4d4c-b0a4-a34af356434d.png
+tags: kubernetes, devops, application-development, devops-articles, kubernetes-container, devops-journey, kubernetes-architecture
 
 ---
 
