@@ -55,7 +55,7 @@ More importantly, you don’t only learn the tools and their features, you learn
 
 ![](https://imgur.com/WBks93k.png align="left")
 
-### 💥 Full Package at <mark>Rs. 280/- INR only</mark> - English Content
+### 💥 Full Package at <mark>Rs. 300/- INR only</mark> - English Content
 
 * **36.5hrs Videos of DevOps Projects + GCP Full Edition + Ultimate DevOps Bootcamp**
     
