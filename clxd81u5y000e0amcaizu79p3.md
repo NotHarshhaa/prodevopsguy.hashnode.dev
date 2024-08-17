@@ -9,8 +9,6 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1718280631945/bf5a7cb
 
 # DevOps Bootcamp Curriculum:
 
-### [<mark>Main Post Link</mark>](https://blog.prodevopsguy.xyz/the-ultimate-devops-bootcamp-2024-pack-by-prodevopsguy)
-
 ## Lesson 01: DevOps Bootcamp Overview
 
 ## Lesson 02: DevOps Overview
