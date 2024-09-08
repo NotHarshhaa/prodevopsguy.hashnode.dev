@@ -3,6 +3,7 @@ title: "Migrating to the Cloud: A Step-by-Step Guide for DevOps Engineers"
 datePublished: Sun Sep 08 2024 10:57:07 GMT+0000 (Coordinated Universal Time)
 cuid: cm0tgly2p001z0ak48l262cce
 slug: migrating-to-the-cloud-a-step-by-step-guide-for-devops-engineers
+canonical: https://dev.to/prodevopsguytech/migrating-to-the-cloud-a-step-by-step-guide-for-devops-engineers-4i3f
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725792956453/d53bc961-103a-4382-98cc-f15f5e895a94.png
 tags: cloud, cloud-computing, migration, devops, guide, devops-articles
 
