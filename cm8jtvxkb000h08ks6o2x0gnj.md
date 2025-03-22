@@ -633,7 +633,7 @@ pipeline {
     stages {
         stage('Git Checkout') {
             steps {
-                git branch: 'main', credentialsId: 'git-cred', url: 'https://github.com/ShubhamStunner/BoardGame.git'
+                git branch: 'main', credentialsId: 'git-cred', url: 'https://github.com/jaiswaladi246/Boardgame.git'
             }
         }
         stage('Compile') {
@@ -683,7 +683,7 @@ pipeline {
             steps {
                 script {
                     withDockerRegistry(credentialsId: 'docker-cred', toolName: 'docker') {
-                        sh "docker build -t stunnershubham/boardgame:latest ."
+                        sh "docker build -t jaiswaladi246/Boardgame:latest ."
                     }
                 }
             }
@@ -692,7 +692,7 @@ pipeline {
             steps {
                 script {
                     withDockerRegistry(credentialsId: 'docker-cred', toolName: 'docker') {
-                        sh "trivy image --format table -o trivy-image-report.html stunnershubham/boardgame:latest"
+                        sh "trivy image --format table -o trivy-image-report.html jaiswaladi246/Boardgame:latest"
                     }
                 }
             }
@@ -701,7 +701,7 @@ pipeline {
             steps {
                 script {
                     withDockerRegistry(credentialsId: 'docker-cred', toolName: 'docker') {
-                        sh "docker push stunnershubham/boardgame:latest"
+                        sh "docker push jaiswaladi246/Boardgame:latest"
                     }
                 }
             }
@@ -730,7 +730,7 @@ pipeline {
                 emailext(
                     subject: "${jobName} - Build ${buildNumber} - ${pipelineStatus.toUpperCase()}",
                     body: body,
-                    to: 'shubhammukherji654@gmail.com',
+                    to: 'jaiswaladi246@gmail.com',
                     from: 'jenkins@example.com',
                     replyTo: 'jenkins@example.com',
                     mimeType: 'text/html',
