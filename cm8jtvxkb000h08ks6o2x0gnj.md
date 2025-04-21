@@ -8,6 +8,8 @@ tags: kibana, docker, projects, sonarqube, kubernetes, maven, monitoring, devops
 
 ---
 
+%%[telegram-github-follow] 
+
 ## **Introduction**
 
 In the rapidly evolving landscape of software development, adopting DevOps practices has become essential for organizations aiming for agility, efficiency, and quality in their software delivery processes. This project focuses on implementing a robust DevOps Continuous Integration/Continuous Deployment (CI/CD) pipeline, orchestrated by Jenkins, to streamline the development, testing, and deployment phases of a software product.
