@@ -2,7 +2,7 @@
 title: "The Ultimate DevOps Bootcamp 2025 Pack by ProDevOpsGuy Tech"
 datePublished: Sun May 12 2024 18:00:22 GMT+0000 (Coordinated Universal Time)
 cuid: clw3ubw2s00000akz4ll41ijd
-slug: the-ultimate-devops-bootcamp-2024-pack-by-prodevopsguy
+slug: the-ultimate-devops-bootcamp-2025-pack-by-prodevopsguy
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715536423371/e3e2f134-39c4-4cca-aca5-c326f01d841d.png
 tags: cloud, aws, devops, gcp, devops-articles
 
