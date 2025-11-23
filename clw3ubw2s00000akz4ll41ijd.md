@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate DevOps Bootcamp 2024 Pack by ProDevOpsGuy"
+title: "The Ultimate DevOps Bootcamp 2025 Pack by ProDevOpsGuy Tech"
 datePublished: Sun May 12 2024 18:00:22 GMT+0000 (Coordinated Universal Time)
 cuid: clw3ubw2s00000akz4ll41ijd
 slug: the-ultimate-devops-bootcamp-2024-pack-by-prodevopsguy
@@ -8,7 +8,7 @@ tags: cloud, aws, devops, gcp, devops-articles
 
 ---
 
-# **Best 29 DevOps & Cloud Realtime Projects 2024 ( Videos ) + Ultimate DevOps/AWS Bootcamp 💥 ( Notes + Videos ) + GCP Full edition - 2024 Year Combo Pack Sale**
+# **Best 29 DevOps & Cloud Realtime Projects 2025 ( Videos ) + Ultimate DevOps/AWS Bootcamp 💥 ( Notes + Videos ) + GCP Full edition - 2025 Year Combo Pack Sale**
 
 ## Master Your DevOps Skills & AWS, GCP with Real challenge 🔥 + Learn DevOps & Cloud in a few days
 
@@ -55,7 +55,7 @@ More importantly, you don’t only learn the tools and their features, you learn
 
 ![](https://imgur.com/WBks93k.png align="left")
 
-### 💥 Full Package at <mark>Rs. 300/- INR only</mark> - English Content
+### 💥 Full Package at <mark>Rs. 650/- INR only</mark> - English Content
 
 * **36.5hrs Videos of DevOps Projects + GCP Full Edition + Ultimate DevOps Bootcamp**
     
@@ -76,7 +76,7 @@ More importantly, you don’t only learn the tools and their features, you learn
     
 * **DevOps Bootcamp Complete Notes**
     
-* **Full Google Cloud 2024 Course with real-time projects**
+* **Full Google Cloud 2025 Course with real-time projects**
     
 * **AWS DevOps Realtime Projects Included**
     
